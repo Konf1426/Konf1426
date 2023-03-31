@@ -4,8 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Konf1426&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false" height="120" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Konf1426&locale=fr&hide_title=false&layout=default &card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
-</div>
 
 ###
 
@@ -37,13 +35,8 @@
 
 <h4 align="left">Je suis en première année d'un Bachelor Universitaire Technologique des Métiers du Multimédia et de l'Internet.</h4>
 
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Konf1426/Konf1426/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Konf1426/count.svg?"  />
