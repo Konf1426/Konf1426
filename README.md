@@ -33,7 +33,7 @@
 
 ###
 
-<h4 align="left">Je suis en première année d'un Bachelor Universitaire Technologique des Métiers du Multimédia et de l'Internet.</h4>
+<h4 align="left">Je suis en 2e année d'un Bachelor Universitaire Technologique des Métiers du Multimédia et de l'Internet.</h4>
 
 <br clear="both">
 
